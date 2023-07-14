@@ -1,24 +1,6 @@
 
-//LINEAR SEARCH
 
-//public class Searching {
-//public static void main(String[] args) {
-//	
-//	int a[]= {10,20,30,40,50,60};
-//	int s=40;
-//	for(int  i=0;i<a.length;i++) {
-//		if(a[i]==s) {
-//			System.out.println(s+" is found on "+i+" index");
-//		}
-//		
-//	}  
-//}
-//}
-
-
-//BINARY SEARCH
-
-public class Searching{
+public class BinarySearching{
 	public static void main(String[] args) {
 		int []a= {2,4,6,8,10,12,14,16,18,20,22};
 		int l=0;
@@ -51,12 +33,3 @@ public class Searching{
 
 
 }
-
-
-
-
-
-
-
-
-

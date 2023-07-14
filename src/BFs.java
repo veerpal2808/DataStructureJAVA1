@@ -34,7 +34,7 @@ public class BFs {
 		
 		while(!q.isEmpty()) {
 			int m=q.poll();
-			System.out.println(m);
+			System.out.print(m);
 			
 			for( int i:arr[m]) {
 				if(visited_nodes[i]!=true) {
